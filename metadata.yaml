@@ -1,0 +1,31 @@
+_repo: The-Devourers_39145
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39145-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vivanti, Annie
+    aliases:
+    - Chartres, Annie Vivanti
+    - Vivanti, Anna
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '37364'
+    url: http://www.gutenberg.org/2009/agents/37364
+    wikipedia: http://it.wikipedia.org/wiki/Annie_Vivanti
+description: ''
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Women authors -- Fiction'
+title: The Devourers
+url: http://www.gutenberg.org/ebooks/39145
